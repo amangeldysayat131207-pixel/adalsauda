@@ -1,0 +1,6 @@
+{
+  "name": "Adal Sauda — Оптовый склад продуктов, химии и хозтоваров в Атырау",
+  "description": "Оптовый склад Adal Sauda в г. Атырау (ул. Сырым Датов, 201/13, 2GIS) для ресторанов, кафе и малого бизнеса. Продукты питания, химия, упаковка. Оптовые и розничные цены в тг, заказ в WhatsApp (+7 705 279 1006), 1С-учет, Kaspi/Halyk/Карты/Наличные, PDF-прайс.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
